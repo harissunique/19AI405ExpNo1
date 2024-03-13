@@ -42,7 +42,7 @@
 <p>Measure the performance parameters: For each cleaning performance incremented, for each movement performance decremented</p>
 <h3>CODE:</h3>
 
-```
+```py 
 import random
 import time
 class Thing:
